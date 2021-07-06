@@ -27,6 +27,7 @@ PRODUCT_CHARACTERISTICS := nosdcard
 
 # Boot animation
 TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_WANTS_FOD_ANIMATIONS := true
 
 # Build info
 BUILD_FINGERPRINT := "OnePlus/OnePlus7T/OnePlus7T:11/RKQ1.201022.002/2105071638:user/release-keys"
